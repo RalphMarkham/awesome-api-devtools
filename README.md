@@ -117,6 +117,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Jersey](https://jersey.java.net/): RESTful web services in Java.
 - [Spring Boot](https://projects.spring.io/spring-boot/): RESTful Web Service using Spring, high-performance and little configuration needed.
 - [Metamug Mason](https://github.com/metamug/mason): Create REST APIs with JSP tags and SQL. Edit and hot deploy REST resources on the server.
+- [RESTEasy](https://resteasy.dev/): A relic for sure, there was a time before Red Hat got bought out by IBM, now a days, like so many of us, if they have turned into ... : 
 
 ### Haskell
 - [Scotty](https://github.com/scotty-web/scotty): Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
